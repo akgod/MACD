@@ -5,6 +5,8 @@ MACD技术指标不同周期交易EOS/ETH的收益表现，
 收益的具体表现见 EOS/ETH文件夹内的html文件。
 为制定科学的量化策略提供一些可参考的启发。
 
+The backtrader framework was used to carry out backtesting (20180520-20220920), the MACD technical indicator trading EOS/ETH income performance in different periods, the backtest code is shown in the MACD file, and the specific income performance is shown in the html file in the EOS/ETH folder. Provide some reference inspiration for formulating scientific quantitative strategies.
+
 通过收益表现，可得出一些结论：
 1 交易周期越大 MACD的可靠性越高
 2 纯依靠MACD进行交易 不如囤币啥也不干
