@@ -1,6 +1,4 @@
 
-# testBinance.py
-# 从Binance币安在线api下载1分钟k线，进行回测
 import os.path  # 路径管理
 import sys  # 获取当前运行脚本的路径 (in argv[0])
 import requests 
